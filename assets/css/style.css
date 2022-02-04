@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background-color: #f5fae4;
+  background-color: #f0cc93;
   font-family: "Open Sans", sans-serif;
   color: #272829;
 }
@@ -115,6 +115,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 #header .profile .social-links #linkedin:hover {
   background: #0b2688;
+  color: #fff;
+  text-decoration: none;
+}
+#header .profile .social-links #github:hover {
+  background: #000000;
   color: #fff;
   text-decoration: none;
 }
